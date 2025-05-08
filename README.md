@@ -1,5 +1,5 @@
 # Sintaxis y Semantica de los Lenguajes
-Repositorio público personal para la asignatura SySL (Sintaxis y Semantica de los Lenguajes) con el profesor Jose María Sola
+Repositorio público personal para la asignatura SySL (Sintaxis y Semantica de los Lenguajes) con el profesor Miguel Salvador Carboni
 
 - **Curso** K2006 
 - **Año de cursada** 2025
