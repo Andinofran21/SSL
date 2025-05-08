@@ -1,0 +1,4 @@
+# Ignore all executable files
+*.exe
+# Ignore intermediate files from the compilation process
+*.vscode/
